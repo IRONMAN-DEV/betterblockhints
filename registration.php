@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Rsc_BetterBlockHints',
+    'IRONMAN-DEV_BetterBlockHints',
     __DIR__
 );
